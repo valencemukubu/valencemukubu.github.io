@@ -1,5 +1,4 @@
-[![](https://mermaid.ink/img/pako:eNo9UclqwzAQ_RUxpwRMsORdN5PQW2ghLYWii2IrjkDWGFmGpiH_XtnB0UnzNt4wd2iwVcBh0Ip47Y0iRxw9-RpVSw719-agO-2lIfXUaiQnL71GuyXakrpXTjdyw2KWboUl4Qn4cEg-Ec0ogHDCqhU32OmGDA4XnBYrPvolF616EnQl6rNRHq0ATl4h--ksxyDk5Yq8mVBpTgggE0H97q_KhSGFCEK_Xuo2LHef9QIC18_28G3VRU7GCxD2EaRy8ni62Qa4d5OKwOHUXYFfpBnDNA2t9OqgZedk_0IHaX8Q-9USRuB3-AVOc7qr8irJszxnRZynWQS30C_bVQnNKCtolRY5LcpHBH9LQrwrGWVVFZezIymSMgLVao_u-LzOcqTHP9NogDc?type=png)]
-Pie Chart Diagram
+
 **Most Used DAW(Digital Audio Station) in America(2024)**
 ##Entities used:
     "Pro Tools" : 29
