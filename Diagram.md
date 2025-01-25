@@ -1,6 +1,6 @@
 
 **Most Used DAW(Digital Audio Station) in America(2024)**
-##Entities used:
+## Entities used
     "Pro Tools" 
     "logic pro"
     "studio one"
@@ -8,7 +8,7 @@
     "Cubase"
     "Fl Studio"
 "Other"
-##Description
+## Description
 - This Pie chart is used to represent the most used digital audio stations used in america in 2024. The diagram contains 6 entities starting from the most used audio station to the least.
   ![mermaid-diagram-2025-01-24-225932](https://github.com/user-attachments/assets/f36e9018-d02e-4e98-84a9-f268b10fc081)
 - ###Cited evidence used to obtain information
